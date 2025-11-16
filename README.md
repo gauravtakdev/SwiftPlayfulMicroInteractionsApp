@@ -1,17 +1,12 @@
 SwiftPlayfulMicroInteractionsApp
 
-Bring your SwiftUI apps to life through 7 playful micro-interactions — a demo app that complements the concepts discussed in my blog:
-
-Bring Your SwiftUI Apps to Life: 7 Playful Micro-Interactions Every iOS Developer Should Know
- by Gaurav Tak. 
-Medium
-+1
+![SwiftUI_Playful_Interactions](https://github.com/user-attachments/assets/b3ea51d3-d30b-4e86-ba4b-605f96ee8442)
 
 🚀 What This Project Is
 
 This is a SwiftUI playground showcasing seven small, delightful interactions that can elevate user experience. These micro-interactions are inspired by and explained in my Medium article, and here you can see and use the actual code.
 
-![Uploading SwiftUI_Playful_Interactions.gif…]()
+
 
 The interactions include:
 
