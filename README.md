@@ -37,18 +37,8 @@ Medium
 
 Here’s an overview of how the repository is organized:
 
-SwiftPlayfulMicroInteractionsApp/
-├── SwiftPlayfulMicroInteractionsApp.xcodeproj
-├── Sources/
-│   ├── BouncyButtonDemo.swift
-│   ├── WigglyToggleDemo.swift
-│   ├── BreathingFABDemo.swift
-│   ├── TypingIndicatorDemo.swift
-│   ├── ConfettiDemo.swift
-│   ├── LiquidProgressDemo.swift
-│   └── TheatricalToggleDemo.swift
-├── README.md
-└── Assets / Resources (if any)
+<img width="423" height="261" alt="Screenshot 2025-11-17 at 3 23 36 AM" src="https://github.com/user-attachments/assets/1d63fa2b-ab2b-4ec8-8e2e-986618ce89ea" />
+
 
 🛠️ How to Run This
 
